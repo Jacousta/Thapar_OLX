@@ -31,10 +31,10 @@ To get started with Thapar OLX, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/thapar-olx.git
+   git clone https://github.com/Jacousta/Thapar_OLX.git
 2. **Change The Directory:**
     ```bash
-   cd thapar-olx
+   cd Thapar_OLX
 3. **Install dependencies in indivudual folder:**
     ```bash
    npm i
